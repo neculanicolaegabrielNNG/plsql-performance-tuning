@@ -1,0 +1,4 @@
+# python-oracledb is published on PyPI as "oracledb" (thin mode, no Oracle Client needed)
+oracledb>=2.0
+matplotlib>=3.5
+pandas>=1.5
